@@ -1,0 +1,9 @@
+/node_modules/
+/.calva/
+/.clj-kondo/
+/.lsp/
+/.shadow-cljs/
+/.vscode/
+/tmp/
+/public/js/cljs-runtime
+yarn*
